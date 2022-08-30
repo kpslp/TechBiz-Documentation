@@ -6,7 +6,7 @@ To subscribe to [Singapore Government Tech Stack (SGTS)](https://www.developer.t
 
 A [system account](glossary) allows agencies to centrally manage and view their SGTS product subscription plans, billing details, and resource usage within a system. An agency can have multiple systems.
 
-## Prerequisites
+## Pre-requisites
 
 - Public officer with a valid organisation email address can create a system account. For example, *your_name@agency.gov.sg* using a [non-SE GSIB](glossary) device.
 
