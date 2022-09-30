@@ -53,11 +53,11 @@ For more information on each type of invitation, refer to the following:
 
 3. Click **Email invitation**.
 
- <kbd>![email_invite](/images/invitation-email.png ':size=100%')</kbd>
+ <kbd>![email-invite](/images/invitation-email.png ':size=100%')</kbd>
 
 4. Enter the required details and click **Submit**.
 
- <kbd>![email_invite](/images/email_invite2.png ':size=100%')</kbd>
+ <kbd>![email-invite2](/images/email_invite2.png ':size=100%')</kbd>
 
 Refer to the following for more information on the required details.
 
