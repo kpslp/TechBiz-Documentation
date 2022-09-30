@@ -113,7 +113,7 @@ A success message with the user list is displayed.
 
 <kbd>![approv_2](/images/batch_upload_3.png  ':size=100%')</kbd>
 
-  - To view or edit user details, click the ellipsis on the row and click **View details**.
+  - To view or edit user details, click the ellipsis on the row and click **View details:**.
 
   - To delete a single user, click **Remove**.
 
@@ -132,7 +132,6 @@ A success message with the user list is displayed.
 >    3. Amend the required details and click **Save**.
 >    4. Click **Submit**.
 
->
 
 ## View status of invited users
 
