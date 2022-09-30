@@ -57,7 +57,7 @@ For more information on each type of invitation, refer to the following:
 
 4. Enter the required details and click **Submit**.
 
-<kbd>![email_invite](/images/email_invite2.png ':size=100%')</kbd>
+ <kbd>![email_invite](/images/email_invite2.png ':size=100%')</kbd>
 
 Refer to the following for more information on the required details.
 
@@ -79,7 +79,7 @@ Refer to the following for more information on the required details.
 
 4. Enter the required details and click **Submit**.
 
-<kbd>![create_account](/images/create_acct2.png ':size=100%')</kbd>
+ <kbd>![create_account](/images/create_acct2.png ':size=100%')</kbd>
 
 Refer to the following for more information on the required details.
 
@@ -95,7 +95,7 @@ Refer to the following for more information on the required details.
 
 1. Click **Download excel template link**.
 
- <kbd>![downloadtemplate](/images/download-template.png ':size=100%')</kbd>
+  <kbd>![downloadtemplate](/images/download-template.png ':size=100%')</kbd>
 
 2. Open the downloaded xlsx file, specify the required details and save the file.
 
@@ -112,11 +112,11 @@ Refer to the following for more information on the required details.
 
 6. Click **Submit**.
 
-<kbd>![submit](/images/batch-upload-submit.png ':size=100%')</kbd>
+ <kbd>![submit](/images/batch-upload-submit.png ':size=100%')</kbd>
 
   - To view or edit user details, click the ellipsis on the row and click **View details**.
 
-<kbd>![view-details](/images/view-details.png ':size=100%')</kbd>
+ <kbd>![view-details](/images/view-details.png ':size=100%')</kbd>
 
   - To delete a single user, click **Remove**.
 
@@ -156,6 +156,7 @@ The page will indicate "No record found" when no users have been invited. If you
 <kbd><img src="images/invite_user_status.png" alt="drawing" width="100%"/></kbd>
 
 >**Notes:**
-> - Only users invited by TechBiz portal will be displayed on the list.
-> - First name and last name is displayed when user has signed up for TechPass or when the account is created through [create account](#create-account) or [batch upload](#batch-upload).
+> - Only users invited via TechBiz portal will be displayed on this list. 
+> - First name and last name are displayed if the user signed up for TechPass via the TechPass portal or if the TechPass account was created through create account or batch upload. 
+> - Click Resend invite to re-invite users through email. Invitation can be sent once a day. 
 
