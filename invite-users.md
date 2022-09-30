@@ -26,13 +26,15 @@ Public officers and vendors need to have a [TechPass](https://www.developer.tech
 
 2.  In **Overview**, click **Invite users**. Alternatively, from the left sidebar, click **Invite Users**.
 
-3.  There are 3 different invitation types:
+3.  Select the invitation type.
+
+There are 3 different invitation types:
 
 | <div style="width:270px">Invitation type</div>  | When to use |
 | :------------------------------------------ |:-------------|
 | Email invitation| Select this to create a TechPass account for the following users:<br> - Public officers using a non-SE GSIB device and whose organisational email address is in the format of \<your_name>@\<acronym for your agency>.gov.sg.<br> - Vendors or contractors using a non-SE GSIB device and whose organisational email address is in the format of \<your_name_from>.\<vendor organisation name>@\<acronym for the agency>.gov.sg.
 | Create account | Select this to create a TechPass account for a vendor who does not have a non-SE GSIB device.
-| Batch upload] | Select this to create TechPass accounts for more than one public officer and vendor. |
+| Batch upload | Select this to create TechPass accounts for more than one public officer and vendor. |
 
 4.  Select the required **invitation type**, enter the required details and click **Submit**.
 
@@ -55,6 +57,8 @@ For more information on each type of invitation, refer to the following:
 
 4. Enter the required details and click **Submit**.
 
+<kbd>![email_invite](/images/email_invite2.png ':size=100%')</kbd>
+
 Refer to the following for more information on the required details.
 
 | <div style="width:270px">Field Name</div>  | Description |
@@ -62,8 +66,6 @@ Refer to the following for more information on the required details.
 | **Email address**| Enter the organisation email address of the public officer who requires a TechPass account. Email address must be in the format of \<your_name>@\<acronym for your agency>.gov.sg. for public officers and  \<your_name_from>.\<vendor organisation name>@\<acronym for the agency>.gov.sg. for vendors. <br>
 | **Is onboarding to [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) required?** | Indicate **Yes** if the public officer needs SEED provisioning.<br />Note: SEED provisioning is needed to access SGTS products from the Internet device.
 | **Reason** | Enter the **Reason** why the public officer needs a TechPass account.
-
-<kbd>![email_invite](/images/email_invite.png ':size=100%')</kbd>
 
 ### Create account
 
@@ -77,6 +79,8 @@ Refer to the following for more information on the required details.
 
 4. Enter the required details and click **Submit**.
 
+<kbd>![create_account](/images/create_acct2.png ':size=100%')</kbd>
+
 Refer to the following for more information on the required details.
 
 | <div style="width:270px">Field Name</div>  | Description |
@@ -86,8 +90,6 @@ Refer to the following for more information on the required details.
 | **First name,** **Last name,** **Contact number,** **Organisation, and Department**| Enter the required details.<br />Note: **Department** is optional.
 | **Is onboarding to [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) required?** | Indicate **Yes** if the public officer or vendor needs SEED provisioning.<br />Note: SEED provisioning is needed to access SGTS products from the Internet device.
 | **Reason** | Enter the **Reason** why the public officer or vendor needs a TechPass account.
-
-<kbd>![create_account](/images/create_acct.png ':size=100%')</kbd>
 
 ### Batch upload
 
@@ -100,9 +102,6 @@ Refer to the following for more information on the required details.
 4. In **Upload user list** section, select **Choose a file**.
 
 5. Select the saved file and upload it.
-A success message with the user list is displayed.
-
-6. Click **Submit**.
 
 > **Notes:**
 >
@@ -111,13 +110,20 @@ A success message with the user list is displayed.
 > - Username can contain alphanumeric characters, '_', ’ ‘, '-', or '.'. 
 > - Two consecutive '.' is not allowed.
 
-<kbd>![approv_2](/images/batch_upload_3.png  ':size=100%')</kbd>
+6. Click **Submit**.
 
-  - To view or edit user details, click the ellipsis on the row and click **View details:**.
+<kbd>![submit](/images/batch-upload-submit.png ':size=100%')</kbd>
+
+  - To view or edit user details, click the ellipsis on the row and click **View details**.
+
+<kbd>![view-details](/images/view-details.png ':size=100%')</kbd>
 
   - To delete a single user, click **Remove**.
 
+  <kbd>![delete](/images/remove-user.png ':size=100%')</kbd>
+
   - To delete all users, click **Reset**. To confirm reset, click **Confirm**.
+  <kbd>![remove](/images/reset.png ':size=100%')</kbd>
 
 
 >**Notes:**
@@ -152,4 +158,4 @@ The page will indicate "No record found" when no users have been invited. If you
 >**Notes:**
 > - Only users invited by TechBiz portal will be displayed on the list.
 > - First name and last name is displayed when user has signed up for TechPass or when the account is created through [create account](#create-account) or [batch upload](#batch-upload).
-> - Click **Resend invite** to re-invite users through email notification. Invites can be resent once in a day.
+
