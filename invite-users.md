@@ -155,7 +155,7 @@ The page will indicate "No record found" when no users have been invited. If you
 
 <kbd><img src="images/invite_user_status.png" alt="drawing" width="100%"/></kbd>
 
->**Notes:**
+>**Note:**
 > - Only users invited via TechBiz portal will be displayed on this list. 
 > - First name and last name are displayed if the user signed up for TechPass via the TechPass portal or if the TechPass account was created through create account or batch upload. 
 > - Click Resend invite to re-invite users through email. Invitation can be sent once a day. 
